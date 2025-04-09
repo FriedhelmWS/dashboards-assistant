@@ -302,7 +302,7 @@ export const GeneratePopoverBody: React.FC<{
                   aria-label="alert-assistant"
                   color="hollow"
                   size="m"
-                  type={getLogoIcon('gradient', shiny_sparkle)}
+                  type={getLogoIcon('white')}
                 />
               )
             ) : (
